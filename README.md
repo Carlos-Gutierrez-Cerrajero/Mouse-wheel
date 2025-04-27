@@ -2,7 +2,7 @@
 
 ## Description
 <p id="Description">
-  A small script I wrote when my mouse wheel gave up on me to tide me over while I got a new mouse. Allows the user to bind any key to mouse wheel up and down events. It doesn't have a mouse wheel click event binding because that still worked for me, but it should be easy enough to add if needed.
+  A small script I wrote when my mouse wheel gave up on me to tide me over while I got a new mouse. Allows the user to bind any key to simulate mouse wheel movements. It doesn't have a mouse wheel click event binding because that still worked for me, but it should be easy enough to add if needed.
 </p>
 
 ## Dependencies
