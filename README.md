@@ -15,5 +15,5 @@
 <p id="Usage">
   Run mouse_wheel.py<br>
   The program will ask to bind a key to mouse wheel up and a key to mouse wheel down. From then on, the program will trigger a mouse wheel up or down event when the chosen key is pressed. Close program when finished.<br>
-  <b>WARNING</b>: The program does not remove the original key input. In other words, if you bind "mouse wheel up" to "Z", pressing the Z key will send both a "Z" event <i>and</i> a "mouse wheel up" event
+  <b>WARNING</b>: The program does not remove the original key input. In other words, binding "mouse wheel up" to "Z", means that pressing the Z key will send both a "Z" event <i>and</i> a "mouse wheel up" event
 </p>
