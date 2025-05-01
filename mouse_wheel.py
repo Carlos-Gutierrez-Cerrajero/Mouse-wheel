@@ -11,7 +11,7 @@ try:
 except ModuleNotFoundError:
     logging.critical ("Module not found, please make sure all required modules are installed")
     print("Press enter to Quit")
-    input("")
+    input()
     exit()
 
 ##Code
