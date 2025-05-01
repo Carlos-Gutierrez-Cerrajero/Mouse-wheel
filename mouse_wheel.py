@@ -26,7 +26,7 @@ print("Choose mouse wheel down key:")
 wheel_down = keyboard.read_key()
 print(wheel_down)
 
-logging.info("Close window when done")
+logging.info("Close when done")
 
 while True:
     
